@@ -1,3 +1,9 @@
+#Web-Developement
+
+Author - Kavya Namburi
+
+---
+
 # 🪨📄✂️ Project 1: Rock-Paper-Scissors Game
 
 This is a simple **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
