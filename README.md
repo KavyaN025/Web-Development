@@ -1,10 +1,10 @@
-## Web-Developement
+# Web-Developement
 
 Author - Kavya Namburi
 
 ---
 
-# 🪨📄✂️ Project 1: Rock-Paper-Scissors Game
+## 🪨📄✂️ Project 1: Rock-Paper-Scissors Game
 
 This is a simple **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
 The game allows users to play against a computer opponent with visual feedback and minimal animations.
