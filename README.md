@@ -24,9 +24,4 @@ The game allows users to play against a computer opponent with visual feedback a
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots here if available, using the GitHub image upload or links)*
-
----
 
