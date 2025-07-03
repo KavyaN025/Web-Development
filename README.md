@@ -43,16 +43,26 @@ The game gets more challenging as time progresses with randomized enemy waves an
 space-shooter-game/
 │
 ├── space.html
+
 ├── space.css
+
 ├── space.js
+
 ├── images/
+
 │ ├── spaceship.png
+
 │ └── invader.png
+
 │
 ├── sounds/
+
 │ ├── shoot.mp3
+
 │ ├── game-over.mp3
+
 │ ├── explosion.m4a
+
 │ └── space_atmosphere.mp3
 
 
