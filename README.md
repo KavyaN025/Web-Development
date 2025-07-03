@@ -6,7 +6,8 @@ Author: Kavya Namburi
 
 A browser-based retro-style space shooter game where you control a spaceship, avoid incoming enemy fire, and shoot down alien invaders. Built using pure JavaScript and HTML5 Canvas.
 
-![Game Preview](./images/game_preview.png)  <!-- This displays your screenshot -->
+![game_preview](https://github.com/user-attachments/assets/ac6f001d-6b01-4ff7-9918-bf8c619bb5c8)
+
 
 ---
 
